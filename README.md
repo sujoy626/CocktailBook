@@ -1,3 +1,9 @@
+# 🍹 Cocktail Book App * MVVM * SwiftUI
+
+
+
+
+
 # 🍹 Cocktail Book App Assignment 📱
 
 The contents of this repository consists of starter project as well as this readme file containing instructions. The main goal is to expand and/or refactor the starter project to develop the Cocktails Book app. This assignment consists of required tasks and optional (bonus) tasks. After finishing the assignment, the resulting project should be compressed into a `zip` archive and sent back to the recruiter.
