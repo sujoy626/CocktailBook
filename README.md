@@ -1,4 +1,4 @@
-# 🍹 Cocktail Book App * MVVM * SwiftUI
+# 🍹 Cocktail Book App * MVVM * SwiftUI * SOLID principal
 
 
 
